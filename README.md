@@ -10,13 +10,15 @@
 
 Je conçois et développe des **applications web full-stack**, de l'interface utilisateur au backend et à la base de données.
 
-En parallèle, ma formation en **Business Intelligence** et mes projets en **Data** me permettent également de travailler sur la collecte, la transformation, l'analyse et la valorisation des données.
+En parallèle, ma formation en **Business Intelligence** et mes projets en **Data** me permettent également de travailler sur la collecte, la transformation, l'analyse, la visualisation et la valorisation des données.
+
+Je m'intéresse également au **Machine Learning**, de la préparation des données à l'exploration et à la construction de modèles.
 
 Mon profil se situe ainsi à l'intersection de deux domaines que j'aime particulièrement : **construire des applications utiles et exploiter les données qu'elles produisent**.
 
 🔭 **Je recherche** : un stage ou une mission sur des projets concrets en **développement web, full-stack, data ou Business Intelligence**.
 
-🌱 **En ce moment** : je consolide mes compétences en architecture web, sécurité applicative, développement backend et traitement des données, tout en continuant à construire des projets concrets.
+🌱 **En ce moment** : je consolide mes compétences en architecture web, sécurité applicative, développement backend, analyse de données et Machine Learning, tout en continuant à construire des projets concrets.
 
 ---
 
@@ -44,23 +46,64 @@ Mon profil se situe ainsi à l'intersection de deux domaines que j'aime particul
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)
+
+SQL · Modélisation relationnelle · Bases de données relationnelles & NoSQL
 
 ### 📊 Data & Business Intelligence
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)](https://www.getdbt.com/)
+[![Talend](https://img.shields.io/badge/Talend-1675B5?style=flat&logo=talend&logoColor=white)](https://www.talend.com/)
 
-SQL · ETL · Data Analysis · Machine Learning · Data Engineering
+**Analyse & exploration**
+- Analyse exploratoire de données (EDA)
+- Nettoyage et préparation des données
+- Analyse statistique
+- Exploration, interprétation et visualisation des données
 
-### 🔧 Outils
+**Business Intelligence**
+- Data Warehouse
+- Modélisation dimensionnelle
+- ETL / ELT
+- Transformation et préparation des données
+- Reporting et tableaux de bord
+- Data Visualisation
+- KPI et analyse décisionnelle
+
+**Machine Learning**
+- Préparation des données pour le Machine Learning
+- Analyse exploratoire et feature engineering
+- Apprentissage supervisé et non supervisé
+- Classification et régression
+- Évaluation et comparaison de modèles
+- Interprétation des résultats
+
+**Outils & technologies**
+- Python
+- SQL
+- Excel
+- Power BI
+- Tableau
+- dbt
+- Apache Airflow
+- Talend
+
+### 🔧 Outils & environnement
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)](https://render.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+Git · GitHub · GitLab · VS Code · Vercel · Render
 
 ---
 
@@ -226,18 +269,23 @@ Projet Python orienté développement **API avec FastAPI**, dans le cadre de mon
 
 Ma formation en **Business Intelligence** complète mon parcours de développeuse.
 
-Je m'intéresse notamment à :
+Je travaille notamment sur :
 
-- l'analyse et la préparation des données ;
-- la conception de pipelines ETL ;
-- la modélisation de données ;
-- les bases de données relationnelles et NoSQL ;
-- la visualisation et le reporting ;
-- le Machine Learning ;
-- le traitement de données à grande échelle ;
-- l'automatisation des workflows data.
+- l'analyse exploratoire de données (**EDA**) ;
+- le nettoyage et la préparation des données ;
+- SQL et l'exploitation des bases de données ;
+- la conception et la modélisation de **Data Warehouses** ;
+- les processus **ETL / ELT** ;
+- la transformation des données avec Python et SQL ;
+- la visualisation et le reporting avec **Power BI** et **Tableau** ;
+- la construction de KPI et de tableaux de bord décisionnels ;
+- l'orchestration de workflows avec **Apache Airflow** ;
+- la transformation et la documentation des données avec **dbt** ;
+- les outils ETL comme **Talend** ;
+- le traitement et l'analyse de données avec Python ;
+- le **Machine Learning**, de la préparation des données à l'évaluation des modèles.
 
-Cette double orientation me permet de comprendre une application non seulement comme une interface et un backend, mais également comme un **système qui produit, stocke et exploite de la donnée**.
+Cette double orientation me permet de comprendre une application non seulement comme une interface et un backend, mais également comme un **système qui produit, stocke, transforme et exploite de la donnée**.
 
 ---
 
@@ -267,6 +315,7 @@ Je recherche principalement un **stage** ou une **mission** dans l'un des domain
 - ⚙️ Développement Backend
 - 📊 Business Intelligence
 - 🐍 Data / Data Engineering
+- 🤖 Data Science / Machine Learning
 - 🔗 Projets à l'intersection du développement et de la donnée
 
 Je privilégie les projets concrets qui permettent de **concevoir, construire, tester et améliorer une solution réellement utilisable**.
