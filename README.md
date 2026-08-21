@@ -447,7 +447,6 @@ Je ne souhaite pas me limiter à utiliser un langage ou un framework.
 
 Je cherche à comprendre **l'ensemble du cycle de vie d'un projet informatique** :
 
-```text
 Besoin métier
      ↓
 Conception
