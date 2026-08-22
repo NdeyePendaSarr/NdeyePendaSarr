@@ -100,23 +100,8 @@ Je travaille également sur l'ensemble du cycle de valorisation de la donnée, d
 ### 🔎 Analyse de données
 
 - **EDA — Analyse exploratoire de données**
-- Nettoyage et préparation des données
-- Analyse statistique
-- Transformation des données
-- Identification des tendances et anomalies
-- Analyse descriptive
-- Data Quality
-- Visualisation et interprétation des résultats
 
 ### 🏗️ Data Warehouse & ETL
-
-- Data Warehouse
-- Modélisation dimensionnelle
-- Tables de faits et dimensions
-- Processus ETL / ELT
-- Extraction, transformation et chargement
-- Pipelines de données
-- Intégration de données provenant de plusieurs sources
 
 ### 🐍 Data & Python
 
@@ -158,15 +143,6 @@ Je travaille également sur l'ensemble du cycle de valorisation de la donnée, d
 - Data Visualization
 
 ### 🤖 Machine Learning
-
-- Préparation des données
-- Feature Engineering
-- Analyse exploratoire
-- Apprentissage supervisé
-- Apprentissage non supervisé
-- Évaluation de modèles
-- Scikit-learn
-- Interprétation des résultats
 
 ---
 
@@ -218,23 +194,6 @@ Application web de **gestion immobilière et locative** développée en PHP.
 
 Projet initialement réalisé en Licence puis **entièrement repris et modernisé en 2026** afin d'améliorer son architecture, sa sécurité et son expérience utilisateur.
 
-**Points clés :**
-
-- Architecture MVC maison
-- PHP
-- PDO / MySQL
-- Authentification
-- Gestion des rôles et permissions
-- Protection CSRF
-- Protection XSS
-- Validation des données
-- Gestion sécurisée des fichiers
-- Gestion des biens immobiliers
-- Gestion des réservations
-- Prévention des conflits de dates
-- Transactions SQL
-- Interface responsive
-
 🔗 **[Démo en ligne](https://agence-immo.42web.io/)**
 
 `PHP` `MVC` `MySQL` `PDO` `Sécurité` `Full-Stack`
@@ -246,25 +205,6 @@ Projet initialement réalisé en Licence puis **entièrement repris et modernis�
 Application full-stack de **réservation pour un restaurant sénégalais**.
 
 Le projet couvre toute la chaîne : interface publique, réservation, API, base de données, espace administrateur et notifications transactionnelles.
-
-**Points clés :**
-
-- Next.js 16
-- TypeScript
-- Tailwind CSS v4
-- PostgreSQL
-- Drizzle ORM
-- Neon
-- Validation avec Zod
-- Authentification avec JWT / `jose`
-- Espace administrateur protégé
-- Réservation en ligne
-- Gestion des statuts
-- Notifications email avec Brevo
-- Carte interactive Leaflet / OpenStreetMap
-- Tests avec Vitest
-- CI GitHub Actions
-- Déploiement Vercel
 
 🔗 **[Démo en ligne](https://restaurant-template-five-pi.vercel.app/)**
 
@@ -278,25 +218,6 @@ Application de **productivité temporelle** conçue comme un coach de journée p
 
 L'utilisateur organise sa journée par créneaux horaires, définit ses objectifs, indique pourquoi ils sont importants et peut effectuer un débrief en fin de journée.
 
-**Points clés :**
-
-- Next.js 16
-- TypeScript
-- React
-- Tailwind CSS
-- Gestion des créneaux horaires
-- Timeline dynamique
-- Rappels
-- Notifications navigateur
-- Statuts riches
-- Historique
-- Recherche et filtres
-- Thème clair / sombre
-- LocalStorage avec couche d'abstraction
-- API météo Open-Meteo
-- Tests Vitest
-- CI GitHub Actions
-
 🔗 **[Démo en ligne](https://focus-day-nps.vercel.app/)**
 
 `Next.js` `TypeScript` `React` `Vitest` `UX`
@@ -308,29 +229,6 @@ L'utilisateur organise sa journée par créneaux horaires, définit ses objectif
 Application web de **gestion de pharmacie** développée avec Django.
 
 Elle permet de gérer les médicaments, les catégories, le stock, les ventes, les clients et les indicateurs de l'activité.
-
-**Points clés :**
-
-- Django
-- Python
-- PostgreSQL
-- SQLite en développement
-- Gestion des médicaments
-- Gestion des catégories
-- Suivi des mouvements de stock
-- Point de vente / POS
-- Gestion du panier
-- Génération de factures
-- Gestion des clients
-- Fidélité et crédit
-- Tableau de bord
-- Chiffre d'affaires
-- Graphiques
-- Alertes de stock
-- Cloudinary
-- WhiteNoise
-- Gunicorn
-- Déploiement Render
 
 🔗 **[Démo en ligne](https://pharmanps-aloucoding-b8ex.onrender.com/)**
 
@@ -398,42 +296,9 @@ Je m'intéresse notamment à :
 
 ### **2026 — Master 2 Business Intelligence**
 
-Formation orientée :
-
-- Business Intelligence
-- Analyse de données
-- Systèmes décisionnels
-- Data Warehouse
-- ETL
-- Data Engineering
-- Bases de données
-- Data Analytics
-- Machine Learning
-- Visualisation et reporting
-
 ### **Master 1 — Systèmes d'Informations Réparties**
 
-Formation ayant permis de renforcer mes compétences en :
-
-- développement web ;
-- Java ;
-- architecture des systèmes ;
-- bases de données ;
-- réseaux ;
-- sécurité informatique ;
-- systèmes distribués.
-
 ### **Formation intensive en développement Data**
-
-Formation pratique autour de :
-
-- Python
-- Analyse de données
-- Machine Learning
-- ETL
-- Apache Spark
-- Apache Airflow
-- Power BI
 
 ### **2024 — Licence Informatique**
 
