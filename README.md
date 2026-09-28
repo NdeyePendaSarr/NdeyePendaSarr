@@ -60,7 +60,7 @@ Python · FastAPI · Django · JavaScript · TypeScript · React · Next.js · H
 
 ### 🗄️ Bases de données
 
-PostgreSQL · MySQL · SQL Server · MongoDB · Redis
+PostgreSQL · MySQL · MongoDB · Redis
 
 ---
 
