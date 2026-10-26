@@ -46,7 +46,7 @@ Projet individuel, Orange Digital Center
 | [**FocusDay**](https://github.com/NdeyePendaSarr/focus-day) | Carnet d'apprentissage : séances, heures par parcours, portfolio ; 89 tests | Next.js · Supabase · Vitest | [Ouvrir](https://focus-day-nps.vercel.app/) |
 | [**Daba Glow**](https://github.com/NdeyePendaSarr/daba-glow) | Site vitrine pour une activité de beauté à domicile (mission freelance) | Next.js · Tailwind | [Ouvrir](https://daba-glow.vercel.app/) |
 | [**Bourse Hub**](https://github.com/NdeyePendaSarr/bourse-hub) | Annuaire de bourses d'études pour étudiants sénégalais | JavaScript | [Ouvrir](https://ndeyependasarr.github.io/bourse-hub/) |
-| [**AgenceImmo**](https://github.com/NdeyePendaSarr/real-estate-management) | Gestion immobilière, projet de Licence repensé (MVC, rôles, sécurité) | PHP · MySQL | — |
+| [**AgenceImmo**](https://github.com/NdeyePendaSarr/real-estate-management) | Gestion immobilière, projet de Licence repensé (MVC, rôles, sécurité) | PHP · MySQL | [Ouvrir](https://agence-immo.42web.io/) |
 
 Compte de démonstration PharmaNPS (rôle Vendeur) : `demo` / `Pharma-Visite-2026`.
 
