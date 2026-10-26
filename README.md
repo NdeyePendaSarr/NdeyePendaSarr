@@ -1,240 +1,74 @@
-# Salut, moi c'est Ndeye Penda SARR 👋
+# Ndeye Penda SARR
 
-## Data Engineer | Data & AI
+### Data Engineer · Analyste BI junior
 
-🎓 Master 2 Business Intelligence · Formation Développement Data — Orange Digital Center
-📍 Dakar, Sénégal 🇸🇳
+Étudiante en **Master 2 Business Intelligence** (Université Cheikh Anta Diop) et en formation **Développement Data** à l'Orange Digital Center, lauréate du **2e prix du Force-N Innovation Challenge 2026**.
 
-Je construis progressivement un profil à l'intersection du **Data Engineering, de la Business Intelligence et du développement logiciel**.
+Je construis des chaînes de données, de l'ingestion jusqu'au tableau de bord, et je m'appuie sur mon parcours de développeuse pour concevoir les API et les interfaces qui rendent ces données utiles. Je recherche un **stage en Data Engineering ou en BI**.
 
-Mon parcours en informatique et en développement web m'a permis d'acquérir une base solide en conception d'applications, APIs et bases de données. Je développe aujourd'hui cette expertise vers la **collecte, l'intégration, la transformation, la qualité et la valorisation des données**.
-
-🎯 **Objectif :** concevoir des solutions Data utiles, fiables et orientées métier.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ndeye-penda-sarr-493150318/)
+📍 Dakar, Sénégal · [LinkedIn](https://www.linkedin.com/in/ndeyependasarr) · [GitLab](https://gitlab.com/ndeyependasarr)
 
 ---
 
-## 👩🏽‍💻 À propos de moi
+## 📊 Projets data
 
-Je suis étudiante en **Master 2 Business Intelligence** et en formation Développement Data à l'**Orange Digital Center**.
+### [Nataal Retail](https://github.com/rassoul01-byte/Yakaarou_Diaykaat_BI) — plateforme data pour un e-commerçant
+Projet d'équipe, Orange Digital Center · **contributrice principale** (143 commits sur 236, hors fusions)
+- Traitements par lots et en flux : Kafka, catalogue MongoDB indexé dans Elasticsearch, DAG Airflow de supervision.
+- Qualité des données (taux de rejet, quarantaine) et entrepôt PostgreSQL en étoile avec SCD 2 ; 948 tests, CI.
+- Modèle de ré-achat à 180 jours (scikit-learn, 4 algorithmes comparés) et tableau de bord Power BI des ventes.
 
-Je travaille sur des projets couvrant plusieurs étapes du cycle de la donnée :
+`Python` `Kafka` `Airflow` `PostgreSQL` `MongoDB` `Elasticsearch` `scikit-learn` `Power BI` `Docker`
 
-**Sources → Ingestion → Transformation → Qualité → Stockage → Data Warehouse → Analyse → Visualisation**
+### [EduSmart Decision Platform](https://github.com/NdeyePendaSarr/edusmart-decision-platform) — plateforme BI de bout en bout
+Projet individuel, Orange Digital Center
+- Pipeline ELT depuis 5 sources (PostgreSQL, MySQL, CSV, MongoDB, Redis) vers un entrepôt en constellation : 8 faits, SCD 2.
+- Portes de qualité de G0 à G6 : 159 946 anomalies détectées et tracées ; 372 tests Pytest.
+- KPI et tableau de bord Power BI (Power Query, DAX), environnement Docker.
 
-Je m'intéresse particulièrement à :
+`Python` `SQL` `ELT` `Data Warehouse` `Data Quality` `Power BI` `Docker`
 
-* Data Engineering
-* ETL / ELT
-* Intégration de données
-* Data Quality
-* Data Warehouse
-* Bases de données SQL / NoSQL
-* Business Intelligence
-* Data Visualization
-* Python & SQL
-* Automatisation et orchestration des pipelines
+### [Student Data Pipeline](https://github.com/NdeyePendaSarr/student-data-pipeline) — ingestion et réconciliation de données
+Projet individuel, Orange Digital Center
+- Ingestion JSON → PostgreSQL idempotente : validation Pydantic, quarantaine motivée, journal des imports.
+- Réconciliation de deux sources sans doublon ; API FastAPI, interface React, 41 tests Pytest.
 
-Mon parcours en développement logiciel constitue mon socle technique : conception d'applications, APIs, bases de données, Git et bonnes pratiques de développement.
+`Python` `FastAPI` `Pydantic` `PostgreSQL` `Pytest` `React`
+
+---
+
+## 💻 Applications web
+
+| Projet | En bref | Stack | Démo |
+|---|---|---|---|
+| [**PharmaNPS**](https://github.com/NdeyePendaSarr/pharmacy-management) | Gestion de pharmacie : rôles Pharmacien et Vendeur, vente sur ordonnance, prix recalculés côté serveur, ventes concurrentes sans survente, 83 tests | Django · PostgreSQL · CI | [Ouvrir](https://pharmanps-aloucoding-b8ex.onrender.com/) |
+| [**Teranga Table**](https://github.com/NdeyePendaSarr/teranga-table) | Réservation de restaurant : validation serveur, espace admin, e-mails automatiques | Next.js · TypeScript · PostgreSQL | [Ouvrir](https://teranga-table.vercel.app/) |
+| [**FocusDay**](https://github.com/NdeyePendaSarr/focus-day) | Carnet d'apprentissage : séances, heures par parcours, portfolio ; 89 tests | Next.js · Supabase · Vitest | [Ouvrir](https://focus-day-nps.vercel.app/) |
+| [**Daba Glow**](https://github.com/NdeyePendaSarr/daba-glow) | Site vitrine pour une activité de beauté à domicile (mission freelance) | Next.js · Tailwind | [Ouvrir](https://daba-glow.vercel.app/) |
+| [**Bourse Hub**](https://github.com/NdeyePendaSarr/bourse-hub) | Annuaire de bourses d'études pour étudiants sénégalais | JavaScript | [Ouvrir](https://ndeyependasarr.github.io/bourse-hub/) |
+| [**AgenceImmo**](https://github.com/NdeyePendaSarr/real-estate-management) | Gestion immobilière, projet de Licence repensé (MVC, rôles, sécurité) | PHP · MySQL | — |
+
+Compte de démonstration PharmaNPS (rôle Vendeur) : `demo` / `Pharma-Visite-2026`.
+
+🏆 **CashBrain**, 2e prix du Force-N Innovation Challenge 2026 : application mobile de recouvrement pour commerçants (React Native, SQLite hors ligne, saisie vocale), développée en équipe.
 
 ---
 
 ## 🛠️ Compétences
 
-### 📊 Data & BI
-
-SQL · Power BI · Power Query · DAX · Excel · Google Sheets · Tableau · Data Visualization
-
-### 🏗️ Data Engineering
-
-ETL / ELT · Data Integration · Data Warehouse · Data Quality · Python · Bases de données SQL / NoSQL
-
-### ☁️ Data Platforms & Tools
-
-BigQuery · Snowflake · dbt · Airflow · SQL Server · Docker · Git · GitHub
-
-### 💻 Développement
-
-Python · FastAPI · Django · JavaScript · TypeScript · React · Next.js · HTML · CSS
-
-### 🗄️ Bases de données
-
-PostgreSQL · MySQL · MongoDB · Redis
+| Domaine | Outils |
+|---|---|
+| Data Engineering | Python · SQL · ETL / ELT · Kafka · Airflow · Docker · qualité des données |
+| Bases de données | PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch |
+| BI | Power BI · Power Query · DAX · Excel · modélisation dimensionnelle (étoile, constellation, SCD 2) |
+| Développement | FastAPI · Pydantic · Django · React · Next.js · TypeScript · React Native |
+| Qualité logicielle | Pytest · Vitest · GitHub Actions · Git |
 
 ---
 
-# 🚀 Projets Data
-
-## 🎓 [EduSmart Decision Platform](https://github.com/NdeyePendaSarr/edusmart-decision-platform)
-
-**Plateforme BI — Projet Orange Digital Center**
-
-Conception d'un pipeline **ELT** intégrant 5 sources de données hétérogènes : PostgreSQL, MySQL, CSV, MongoDB et Redis.
-
-Le projet couvre notamment :
-
-* extraction et intégration de données ;
-* nettoyage et contrôle de la qualité ;
-* transformation des données ;
-* modélisation d'un Data Warehouse en constellation ;
-* création de KPI ;
-* analyse décisionnelle ;
-* dashboard interactif Power BI.
-
-`Python` `SQL` `ETL/ELT` `Data Quality` `Data Warehouse` `Power BI` `Docker`
-
----
-
-## 🗃️ [School Management — Data Pipeline](https://github.com/NdeyePendaSarr/school-management)
-
-**Pipeline d'ingestion JSON → PostgreSQL**
-
-Pipeline d'ingestion et de réconciliation de données avec :
-
-* validation des données ;
-* déduplication ;
-* import idempotent ;
-* suivi de la qualité des données ;
-* traçabilité des imports ;
-* API REST ;
-* dashboard de suivi.
-
-`Python` `FastAPI` `PostgreSQL` `SQL` `JSON` `Data Quality` `API`
-
----
-
-# 💻 Projets Développement
-
-## 🏠 [Agence Immobilière — Real Estate Management](https://github.com/NdeyePendaSarr/real-estate-management)
-
-Application web de gestion immobilière et locative développée en PHP.
-
-Projet initialement réalisé en Licence puis repris et modernisé afin d'améliorer son architecture, sa sécurité et son expérience utilisateur.
-
-🔗 [Démo en ligne](https://agence-immo.42web.io/)
-
-`PHP` `MVC` `MySQL` `PDO` `Full-Stack`
-
----
-
-## 🍽️ [Teranga Table](https://github.com/NdeyePendaSarr/restaurant-template)
-
-Application full-stack de réservation pour un restaurant sénégalais.
-
-Interface publique, réservation, API, base de données, espace administrateur et notifications transactionnelles.
-
-🔗 [Démo en ligne](https://restaurant-template-five-pi.vercel.app/)
-
-`Next.js` `TypeScript` `PostgreSQL` `Drizzle` `API` `Full-Stack`
-
----
-
-## 💊 [Pharmacy Management](https://github.com/NdeyePendaSarr/pharmacy-management)
-
-Application web de gestion de pharmacie développée avec Django.
-
-Gestion des médicaments, catégories, stocks, ventes, clients et indicateurs d'activité.
-
-🔗 [Démo en ligne](https://pharmanps-aloucoding-b8ex.onrender.com/)
-
-`Python` `Django` `PostgreSQL`
-
----
-
-## ⏳ [FocusDay](https://github.com/NdeyePendaSarr/focus-day)
-
-Application de productivité permettant d'organiser sa journée par créneaux horaires, définir ses objectifs et effectuer un débrief en fin de journée.
-
-🔗 [Démo en ligne](https://focus-day-nps.vercel.app/)
-
-`Next.js` `TypeScript` `React` `Vitest` `UX`
-
----
-
-# 📚 Autres projets
-
-### [Plateforme Formation SQL](https://github.com/NdeyePendaSarr/plateforme-formation-sql)
-
-Projet orienté bases de données et SQL avec conception et modélisation d'une base relationnelle.
-
-`SQL` `Base de données` `Modélisation`
-
-### [Projet FastAPI Dev Data](https://github.com/NdeyePendaSarr/Projet_FastAPI_Dev_Data)
-
-Projet Python orienté développement Data et API avec FastAPI.
-
-`Python` `FastAPI` `API REST`
-
-### [Online CV](https://github.com/NdeyePendaSarr/online-cv)
-
-Site CV personnel développé en HTML, CSS et JavaScript.
-
-`HTML` `CSS` `JavaScript` `Responsive Design`
-
----
-
-# 🎓 Parcours
-
-**Master 2 — Business Intelligence**
-Université Cheikh Anta Diop
-
-**Formation Développement Data**
-Orange Digital Center
-
-**Master 1 — Systèmes d'Informations Réparties**
-
-**Licence — Informatique**
-Université Cheikh Anta Diop
-
----
-
-# 🎯 Ce que je construis
-
-Mon objectif est de développer une expertise permettant de comprendre et de construire une solution **de bout en bout** :
-
-```text
-Besoin métier
-      ↓
-Sources de données
-      ↓
-Ingestion
-      ↓
-Transformation / ETL-ELT
-      ↓
-Data Quality
-      ↓
-Stockage / Data Warehouse
-      ↓
-Modélisation
-      ↓
-Analyse
-      ↓
-Power BI / Data Visualization
-      ↓
-Décision
-```
-
-Je privilégie les **projets concrets** pour transformer progressivement mes connaissances en compétences solides.
-
-🚀 **Construire · Comprendre · Améliorer · Recommencer**
-
----
-
-## 📫 Me contacter
-
-💼 LinkedIn : [Ndeye Penda Sarr](https://www.linkedin.com/in/ndeye-penda-sarr-493150318/)
-
-💻 GitHub : [@NdeyePendaSarr](https://github.com/NdeyePendaSarr)
-
-📍 Dakar, Sénégal 🇸🇳
-
----
-
-<p align="center">
-  Merci de visiter mon profil GitHub ! 👋
-</p>
-
-<p align="center">
-  <sub>Conçu et développé par <strong>Ndeye Penda Sarr</strong> — 2026</sub>
-</p>
+## 🎓 Parcours
+
+- **Master 2 Business Intelligence** — Université Cheikh Anta Diop (en cours)
+- **Développement Data, parcours Data Engineer** — Orange Digital Center (2026)
+- **Master 1 Systèmes d'information répartis** — Université Cheikh Anta Diop
+- **Licence Informatique** — Université Cheikh Anta Diop
