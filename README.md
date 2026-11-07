@@ -6,8 +6,6 @@
 
 Je construis des chaînes de données, de l'ingestion jusqu'au tableau de bord, et des applications web complètes : interfaces React / Next.js en TypeScript, API, bases PostgreSQL, tests et CI. Je recherche un **stage ou un premier poste en Data Engineering, en BI ou en développement full stack**.
 
-Je construis des chaînes de données, de l'ingestion jusqu'au tableau de bord, et je m'appuie sur mon parcours de développeuse pour concevoir les API et les interfaces qui rendent ces données utiles. Je recherche un **stage en Data Engineering ou en BI**.
-
 📍 Dakar, Sénégal · [LinkedIn](https://www.linkedin.com/in/ndeyependasarr)
 
 ---
@@ -25,7 +23,7 @@ Projet d'équipe, Orange Digital Center · **contributrice principale** (143 com
 ### [EduSmart Decision Platform](https://github.com/NdeyePendaSarr/edusmart-decision-platform) — plateforme BI de bout en bout
 Projet individuel, Orange Digital Center
 - Pipeline ELT depuis 5 sources (PostgreSQL, MySQL, CSV, MongoDB, Redis) vers un entrepôt en constellation : 8 faits, SCD 2.
-- Portes de qualité de G0 à G6 : 159 946 anomalies détectées et tracées ; 372 tests Pytest.
+- Portes de qualité de G0 à G6 : 159 946 anomalies détectées et tracées ; 399 tests en CI.
 - KPI et tableau de bord Power BI (Power Query, DAX), environnement Docker.
 
 `Python` `SQL` `ELT` `Data Warehouse` `Data Quality` `Power BI` `Docker`
@@ -33,7 +31,7 @@ Projet individuel, Orange Digital Center
 ### [Student Data Pipeline](https://github.com/NdeyePendaSarr/student-data-pipeline) — ingestion et réconciliation de données
 Projet individuel, Orange Digital Center
 - Ingestion JSON → PostgreSQL idempotente : validation Pydantic, quarantaine motivée, journal des imports.
-- Réconciliation de deux sources sans doublon ; API FastAPI, interface React, 41 tests Pytest.
+- Réconciliation de deux sources sans doublon ; API FastAPI, interface React, 76 tests en CI.
 
 `Python` `FastAPI` `Pydantic` `PostgreSQL` `Pytest` `React`
 
@@ -92,7 +90,7 @@ Projet personnel · [Démo](https://pharmanps-aloucoding-b8ex.onrender.com/) (co
 | Data Engineering | Python · SQL · ETL / ELT · Kafka · Airflow · Docker · qualité des données |
 | Bases de données | PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch |
 | BI | Power BI · Power Query · DAX · Excel · modélisation dimensionnelle (étoile, constellation, SCD 2) |
-| Développement | FastAPI · Pydantic · Django · React · Next.js · TypeScript · React Native |
+| Développement | FastAPI · Pydantic · Django · React · Next.js · TypeScript · React Native · Node.js · Prisma · Drizzle · Supabase · Tailwind CSS |
 | Qualité logicielle | Pytest · Vitest · GitHub Actions · Git |
 
 ---
