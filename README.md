@@ -8,7 +8,7 @@ Je construis des chaînes de données, de l'ingestion jusqu'au tableau de bord, 
 
 Je construis des chaînes de données, de l'ingestion jusqu'au tableau de bord, et je m'appuie sur mon parcours de développeuse pour concevoir les API et les interfaces qui rendent ces données utiles. Je recherche un **stage en Data Engineering ou en BI**.
 
-📍 Dakar, Sénégal · [LinkedIn](https://www.linkedin.com/in/ndeyependasarr) · [GitLab](https://gitlab.com/ndeyependasarr)
+📍 Dakar, Sénégal · [LinkedIn](https://www.linkedin.com/in/ndeyependasarr)
 
 ---
 
@@ -39,18 +39,47 @@ Projet individuel, Orange Digital Center
 
 ---
 
-## 💻 Applications web
+## 💻 Applications full stack
+
+### [Cotiz](https://github.com/NdeyePendaSarr/cotiz-app-public) — trésorerie de tontines et de collectes
+Projet personnel, conçu pour mon propre usage de trésorière (famille, tontines, collectes)
+- Application web mobile-first : saisie des paiements Wave, Orange Money et espèces, rapprochement du soir, relances WhatsApp.
+- Next.js 16 (Server Actions), React 19, TypeScript, Prisma, PostgreSQL (Supabase) avec RLS.
+- 544 tests unitaires et 75 tests d'intégration en CI.
+
+`Next.js` `React` `TypeScript` `Prisma` `PostgreSQL` `Supabase`
+
+### [Teranga Table](https://github.com/NdeyePendaSarr/teranga-table) — réservation de restaurant
+Projet personnel, restaurant fictif · [Démo](https://teranga-table.vercel.app)
+- API REST sur Node.js (routes Next.js), validation zod partagée, PostgreSQL (Neon, Drizzle).
+- Admin protégé par cookie JWT signé (middleware + vérification par route), limitation de débit par IP, honeypot, e-mails Brevo échappés.
+- 29 tests Vitest, CI.
+
+`Next.js` `Node.js` `TypeScript` `PostgreSQL` `Drizzle` `zod` `Vitest`
+
+### [FocusDay](https://github.com/NdeyePendaSarr/focus-day) — carnet d'apprentissage
+Projet personnel · [Démo](https://focus-day-nps.vercel.app) · en production depuis le 31 août 2026 (116 séances, 271 h sur 10 parcours, sur mon seul compte)
+- Supabase / PostgreSQL avec RLS, migrations versionnées.
+- Mises à jour optimistes avec restauration en cas d'échec.
+- Next.js 16, React 19, TypeScript ; 109 tests Vitest, CI.
+
+`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Vitest`
+
+### [PharmaNPS](https://github.com/NdeyePendaSarr/pharmacy-management) — gestion de pharmacie
+Projet personnel · [Démo](https://pharmanps-aloucoding-b8ex.onrender.com/) (compte de démonstration dans le README du dépôt)
+- Rôles Pharmacien et Vendeur, prix recalculés côté serveur.
+- Ventes concurrentes sans survente : transactions et verrous.
+- 83 tests, CI.
+
+`Django` `Python` `PostgreSQL` `GitHub Actions`
+
+### Autres projets web
 
 | Projet | En bref | Stack | Démo |
 |---|---|---|---|
-| [**PharmaNPS**](https://github.com/NdeyePendaSarr/pharmacy-management) | Gestion de pharmacie : rôles Pharmacien et Vendeur, vente sur ordonnance, prix recalculés côté serveur, ventes concurrentes sans survente, 83 tests | Django · PostgreSQL · CI | [Ouvrir](https://pharmanps-aloucoding-b8ex.onrender.com/) |
-| [**Teranga Table**](https://github.com/NdeyePendaSarr/teranga-table) | Réservation de restaurant : validation serveur, espace admin, e-mails automatiques | Next.js · TypeScript · PostgreSQL | [Ouvrir](https://teranga-table.vercel.app/) |
-| [**FocusDay**](https://github.com/NdeyePendaSarr/focus-day) | Carnet d'apprentissage : séances, heures par parcours, portfolio ; 89 tests | Next.js · Supabase · Vitest | [Ouvrir](https://focus-day-nps.vercel.app/) |
 | [**Daba Glow**](https://github.com/NdeyePendaSarr/daba-glow) | Site vitrine pour une activité de beauté à domicile (mission freelance) | Next.js · Tailwind | [Ouvrir](https://daba-glow.vercel.app/) |
 | [**Bourse Hub**](https://github.com/NdeyePendaSarr/bourse-hub) | Annuaire de bourses d'études pour étudiants sénégalais | JavaScript | [Ouvrir](https://ndeyependasarr.github.io/bourse-hub/) |
 | [**AgenceImmo**](https://github.com/NdeyePendaSarr/real-estate-management) | Gestion immobilière, projet de Licence repensé (MVC, rôles, sécurité) | PHP · MySQL | [Ouvrir](https://agence-immo.42web.io/) |
-
-Compte de démonstration PharmaNPS (rôle Vendeur) : `demo` / `Pharma-Visite-2026`.
 
 🏆 **CashBrain**, 2e prix du Force-N Innovation Challenge 2026 : application mobile de recouvrement pour commerçants (React Native, SQLite hors ligne, saisie vocale), développée en équipe.
 
