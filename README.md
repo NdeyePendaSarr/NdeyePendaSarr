@@ -1,8 +1,10 @@
 # Ndeye Penda SARR
 
-### Data Engineer · Analyste BI junior
+### Data Engineer · Développeuse Full Stack junior
 
 Étudiante en **Master 2 Business Intelligence** (Université Cheikh Anta Diop) et en formation **Développement Data** à l'Orange Digital Center, lauréate du **2e prix du Force-N Innovation Challenge 2026**.
+
+Je construis des chaînes de données, de l'ingestion jusqu'au tableau de bord, et des applications web complètes : interfaces React / Next.js en TypeScript, API, bases PostgreSQL, tests et CI. Je recherche un **stage ou un premier poste en Data Engineering, en BI ou en développement full stack**.
 
 Je construis des chaînes de données, de l'ingestion jusqu'au tableau de bord, et je m'appuie sur mon parcours de développeuse pour concevoir les API et les interfaces qui rendent ces données utiles. Je recherche un **stage en Data Engineering ou en BI**.
 
